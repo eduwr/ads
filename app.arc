@@ -18,3 +18,7 @@ password
 note
   pk *String  # userId
   sk **String # noteId
+
+advertising
+  pk *String  # userId
+  sk **String # advertisingId
